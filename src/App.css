@@ -1,0 +1,213 @@
+
+.dau{
+  background-color: green;
+  padding-top: 20px;
+}
+.img{
+  position: absolute;
+  
+  padding-left: 200px;
+  
+}
+img{
+  
+  border-style: groove ;
+  border-color: white;
+  width: 130px;
+  height: 130px;
+  
+}
+.text1{
+  padding: 10px;
+  text-align: center;
+  padding-bottom: 40px;
+  font-size: 30px;
+  
+}
+.info a{
+  padding-right: 200px;
+  color: black;
+  text-decoration: none;
+}
+.info {
+  padding: 20px 0px;
+  padding-left: 150px;
+   border: 3px solid black;
+}
+i{
+  padding-right: 5px;
+}
+.thongtin{
+  padding: 0px 150px;
+}
+.kynang{
+ padding-top: 20px;
+  position: absolute;
+}
+.a11{
+  background-color: aqua;
+ height: 16px;
+  left: 0;
+   top : 70px;
+   z-index: 5;
+   position: absolute;
+}
+.a12{
+
+  background-color: aqua;
+ height: 16px;
+  left: 0;
+   top : 110px;
+   z-index: 5;
+   position: absolute;
+}
+.a13{
+
+  background-color: aqua;
+ height: 16px;
+  left: 0;
+   top : 150px;
+   z-index: 5;
+   position: absolute;
+}
+.a14{
+
+  background-color: aqua;
+ height: 16px;
+  left: 0;
+   top : 190px;
+   z-index: 5;
+   position: absolute;
+}
+.a17{
+
+  background-color: aqua;
+ height: 16px;
+  left: 0;
+   top : 228px;
+   z-index: 5;
+   position: absolute;
+}
+.ppp {
+   position: absolute;
+   left: 30%;
+}
+ .model {
+   position: fixed;
+    top: 0;
+     left: 0;
+      right: 0;
+       bottom: 0;
+        background-color: rgb(0, 0, 0 , 0.4);
+
+        
+    
+ }
+  .form {
+ max-width: 500px;
+ width: 100%;
+  background: rgb(239, 237, 237);
+   margin-left: auto;
+   margin-right: auto;
+    height: 400px;
+     position: relative;
+     z-index: 100;
+  
+  }
+/* .a12{
+  background-color: aqua;
+  padding-left: 200px;
+  margin-left: 70px;
+}
+.a13{
+  background-color: aqua;
+  padding-left: 150px;
+  margin-left: 82px;
+}
+.a14{
+  background-color: aqua;
+  padding-left: 200px;
+  margin-left: 45px;
+}
+*/
+.b11{
+   position: relative;
+  background-color: rgb(147, 145, 145);
+   width: 500px;
+    display: block;
+     height: 16px;
+} 
+
+.cc{
+  margin-top: 60px;
+  padding-left: 800px;
+}
+.cc h5{
+  color: green;
+}
+.hv{
+  margin-top: 120px;
+  position: absolute;
+}
+.hv h4{
+  color: green;
+}
+.knlv{
+  margin-top: 80px;
+  padding-left: 800px;
+}
+.knlv h3{
+color: green;
+}
+
+.hd{
+  margin-top: 77px;
+  position: absolute;
+}
+.hd h3{
+  color: green;
+}
+.ctcn{
+  margin-top: 80px;
+  padding-left: 800px;
+}
+.ctcn h2{
+  color: green;
+}
+
+.gt{
+  margin-top: 100px;
+  /* position: absolute; */
+}
+.gt h3{
+  color: green;
+}
+.st{
+  margin-top: 50px;
+}
+
+.xam{
+  background-color: rgb(188, 188, 194);
+  width: 500px;
+  height: 20px;
+}
+.xanh1{
+  background-color: aqua;
+  width: 100px;
+  height: 20px;
+}
+.xanh2{
+  background-color: aqua;
+  width: 400px;
+  height: 20px;
+}
+.xanh3{
+  background-color: aqua;
+  width: 150px;
+  height: 20px;
+}
+.xanh4{
+  background-color: aqua;
+  width: 200px;
+  height: 20px;
+}
